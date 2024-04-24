@@ -264,7 +264,7 @@ authorize().then(listEvents).catch(console.error);
 
 ## 📚배운 점
 
-다음번에는 메시지 템플릿을 이용해서 하는 것도 해봐야겠다. 지금은 진이 빠져서 대충 하고 말았다.
+다음번에는 메시지 템플릿을 이용해서 하는 것도 해봐야겠다.
 
 [Building with Block Kit](https://api.slack.com/block-kit/building)
 
